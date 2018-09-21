@@ -10,24 +10,43 @@ Pour manette dualshock noname blanche :
 
 
 BTN_C=a
+
 BTN_EAST=b
+
 BTN_TL2=back
+
 BTN_TR2=start
+
 BTN_WEST=lb
+
 BTN_Z=rb
+
 BTN_TL=lt
+
 BTN_TR=rt
+
 BTN_SELECT=tl
+
 BTN_START=tr
+
 ABS_X=x1
+
 BTN_NORTH=x
+
 BTN_SOUTH=y
+
 ABS_Y=y1
+
 ABS_Z=x2
+
 ABS_RZ=y2
+
 ABS_HAT0X=dpad_x
+
 ABS_HAT0Y=dpad_y
+
 -Y1=Y1
+
 -Y2=Y2
 
 
